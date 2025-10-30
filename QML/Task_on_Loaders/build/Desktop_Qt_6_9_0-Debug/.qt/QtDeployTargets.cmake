@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Task_on_Loaders_FILE /home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/Task_on_Loaders)
+set(__QT_DEPLOY_TARGET_Task_on_Loaders_TYPE EXECUTABLE)

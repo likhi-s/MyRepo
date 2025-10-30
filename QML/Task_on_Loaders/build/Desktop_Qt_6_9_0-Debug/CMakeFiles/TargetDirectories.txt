@@ -1,0 +1,10 @@
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/Task_on_Loaders.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/Task_on_Loaders_qmlimportscan.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/edit_cache.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/list_install_components.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install/local.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install/strip.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/Task_on_Loaders_autogen_timestamp_deps.dir
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/Task_on_Loaders_autogen.dir

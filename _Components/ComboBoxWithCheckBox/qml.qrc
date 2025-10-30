@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyComboCheckBox.qml</file>
+        <file>Images/DownwardArrow.svg</file>
+        <file>Flags/au.png</file>
+        <file>Flags/br.png</file>
+        <file>Flags/ca.png</file>
+        <file>Flags/de.png</file>
+        <file>Flags/eg.png</file>
+        <file>Flags/es.png</file>
+        <file>Flags/fr.png</file>
+        <file>Flags/gb.png</file>
+        <file>Flags/in.png</file>
+        <file>Flags/it.png</file>
+        <file>Flags/jp.png</file>
+        <file>Flags/kr.png</file>
+        <file>Flags/mx.png</file>
+        <file>Flags/us.png</file>
+        <file>Flags/za.png</file>
+        <file>Images/check.png</file>
+        <file>MyDelegate.qml</file>
+    </qresource>
+</RCC>

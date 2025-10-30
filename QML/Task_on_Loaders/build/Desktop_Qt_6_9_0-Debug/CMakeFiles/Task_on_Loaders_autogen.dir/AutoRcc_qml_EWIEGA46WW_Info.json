@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/Task_on_Loaders_autogen",
+	"CMAKE_BINARY_DIR" : "/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/likhitha/Documents/QML/Task_on_Loaders",
+	"CMAKE_SOURCE_DIR" : "/home/likhitha/Documents/QML/Task_on_Loaders",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/Task_on_Loaders_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/likhitha/Documents/QML/Task_on_Loaders/MyScreen4.qml",
+		"/home/likhitha/Documents/QML/Task_on_Loaders/MyScreen3.qml",
+		"/home/likhitha/Documents/QML/Task_on_Loaders/MyScreen2.qml",
+		"/home/likhitha/Documents/QML/Task_on_Loaders/MyScreen1.qml",
+		"/home/likhitha/Documents/QML/Task_on_Loaders/main.qml"
+	],
+	"LOCK_FILE" : "/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/Task_on_Loaders_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/likhitha/Qt/6.9.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/Task_on_Loaders_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/likhitha/Documents/QML/Task_on_Loaders/qml.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

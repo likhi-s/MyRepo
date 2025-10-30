@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a4ebcc7d6c662d711a7c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PathView",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PathView::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PathView-Debug-0982bf2f8ea8b9ccec50.json",
+					"name" : "PathView",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PathView_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PathView_autogen-Debug-d3bc52a510fffa0f528c.json",
+					"name" : "PathView_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PathView_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PathView_autogen_timestamp_deps-Debug-faa46b66661b0e3f15b3.json",
+					"name" : "PathView_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PathView_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PathView_qmlimportscan-Debug-789b1a3e5eedb109f3ad.json",
+					"name" : "PathView_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/likhitha/Documents/trails/PathView/build/Desktop_Qt_6_9_0-Debug",
+		"source" : "/home/likhitha/Documents/trails/PathView"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

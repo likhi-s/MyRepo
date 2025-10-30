@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/arrive.svg</file>
+        <file>Images/bulb.svg</file>
+        <file>Images/morning.svg</file>
+        <file>Images/movie.svg</file>
+        <file>Images/music.svg</file>
+        <file>Images/night.svg</file>
+        <file>Images/sleep.svg</file>
+        <file>Images/walking.svg</file>
+    </qresource>
+</RCC>

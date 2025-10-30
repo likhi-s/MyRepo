@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country>
+        <name>Canada</name>
+        <flag>Flags/ca.png</flag>
+    </country>
+    <country>
+        <name>Brazil</name>
+        <flag>Flags/br.png</flag>
+    </country>
+    <country>
+        <name>Japan</name>
+        <flag>Flags/jp.png</flag>
+    </country>
+    <country>
+        <name>Germany</name>
+        <flag>Flags/de.png</flag>
+    </country>
+    <country>
+        <name>Australia</name>
+        <flag>Flags/au.png</flag>
+    </country>
+    <country>
+        <name>India</name>
+        <flag>Flags/in.png</flag>
+    </country>
+    <country>
+        <name>South Africa</name>
+        <flag>Flags/za.png</flag>
+    </country>
+    <country>
+        <name>United States</name>
+        <flag>Flags/us.png</flag>
+    </country>
+    <country>
+        <name>France</name>
+        <flag>Flags/fr.png</flag>
+    </country>
+    <country>
+        <name>Italy</name>
+        <flag>Flags/it.png</flag>
+    </country>
+    <country>
+        <name>Mexico</name>
+        <flag>Flags/mx.png</flag>
+    </country>
+    <country>
+        <name>Spain</name>
+        <flag>Flags/es.png</flag>
+    </country>
+    <country>
+        <name>Egypt</name>
+        <flag>Flags/eg.png</flag>
+    </country>
+    <country>
+        <name>United Kingdom</name>
+        <flag>Flags/gb.png</flag>
+    </country>
+</countries>
+

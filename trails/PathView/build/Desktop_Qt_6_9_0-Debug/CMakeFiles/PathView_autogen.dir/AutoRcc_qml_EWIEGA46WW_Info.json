@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/home/likhitha/Documents/trails/PathView/build/Desktop_Qt_6_9_0-Debug/PathView_autogen",
+	"CMAKE_BINARY_DIR" : "/home/likhitha/Documents/trails/PathView/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/likhitha/Documents/trails/PathView/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/likhitha/Documents/trails/PathView",
+	"CMAKE_SOURCE_DIR" : "/home/likhitha/Documents/trails/PathView",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/likhitha/Documents/trails/PathView/build/Desktop_Qt_6_9_0-Debug/PathView_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/likhitha/Documents/trails/PathView/main.qml",
+		"/home/likhitha/Documents/trails/PathView/Images/morning.svg",
+		"/home/likhitha/Documents/trails/PathView/Images/music.svg",
+		"/home/likhitha/Documents/trails/PathView/Images/bulb.svg",
+		"/home/likhitha/Documents/trails/PathView/Images/night.svg",
+		"/home/likhitha/Documents/trails/PathView/Images/sleep.svg",
+		"/home/likhitha/Documents/trails/PathView/Images/movie.svg",
+		"/home/likhitha/Documents/trails/PathView/Images/walking.svg",
+		"/home/likhitha/Documents/trails/PathView/Images/arrive.svg"
+	],
+	"LOCK_FILE" : "/home/likhitha/Documents/trails/PathView/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/PathView_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/likhitha/Qt/6.9.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/likhitha/Documents/trails/PathView/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/PathView_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/likhitha/Documents/trails/PathView/qml.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

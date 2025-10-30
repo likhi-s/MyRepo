@@ -1,0 +1,9 @@
+-rootPath
+/home/likhitha/Documents/QML/Task_on_Loaders
+-cmake-output
+-output-file
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/Task_on_Loaders_build.cmake
+-importPath
+/home/likhitha/Documents/QML/Task_on_Loaders/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/likhitha/Qt/6.9.0/gcc_64/qml
